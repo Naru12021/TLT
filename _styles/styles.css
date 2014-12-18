@@ -1,0 +1,192 @@
+body {
+  font-family: arial, sans-serif;
+  margin: 0 auto;
+  background: #e9eaed;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+header {
+  background: #344b8a;
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 100%;
+}
+
+.family {
+  background: #e9eaed;
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 100px;
+  
+}
+
+.naissance {
+  float:left;
+
+}
+
+.Facebook {
+  
+  overflow: hidden;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 auto;
+
+
+}
+
+.savoir1 {
+  background-image: url(../_images/facebook.jpg);
+  color: black;
+  position: absolute;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  margin: -300px 800px;
+  padding: 0px;
+}
+
+.Developpement {
+  background: #e9eaed;
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 100px;
+}
+
+.texte {
+  float:right;
+  margin-left:270px;
+  padding:30px;
+}
+
+.savoir2 {
+  background-image: url(../_images/facebook.jpg);
+  color: black;
+  position: absolute;
+  float:left;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  margin-left:-50px; 
+  margin-top: 10px;
+  padding: 0px;
+}
+
+
+.justice {
+  background: #e9eaed;
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 100px;
+  
+}
+
+.justice_logo {
+  float:right;
+}
+
+.film {
+ background: #e9eaed;
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 100px;
+
+}
+
+.film_logo {
+  float: right;
+}
+
+.savoir3 {
+  background-image: url(../_images/facebook.jpg);
+  color: black ;
+  position: absolute;
+  float:left;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  margin-left:80px;
+  padding: 0px;
+}
+
+.savoir3 a {
+  color:red;
+}
+
+.container {
+  background: #e9eaed;
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 100px;
+}
+
+.time {
+  float:left;
+  width: 500px;
+}
+
+
+.Statistique {
+  float: right;
+  width: 500px;
+  margin-top: 400px;
+}
+
+
+footer {
+  background: #344b8a;
+  color:#fff;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color:#9B9B9B;
+}
+
+a:hover {
+  color: black;
+}
+
+ul {
+  list-style: none;
+
+}
+
+nav ul li {
+  display: inline-block;
+  background: #fff;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 50%;
+  
+}
+
+nav ul li a {
+  color:#344b8a;
+  padding: 30px;
+  margin: 30px;
+
+}
+
+nav ul li:hover {
+  display: inline-block;
+  background: #9B9B9B;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 50%;
+  
+}
+
+
